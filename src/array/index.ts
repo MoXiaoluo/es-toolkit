@@ -1,3 +1,4 @@
+export { at } from './at.ts';
 export { chunk } from './chunk.ts';
 export { compact } from './compact.ts';
 export { countBy } from './countBy.ts';
@@ -23,6 +24,7 @@ export { maxBy } from './maxBy.ts';
 export { minBy } from './minBy.ts';
 export { orderBy } from './orderBy.ts';
 export { partition } from './partition.ts';
+export { pullAt } from './pullAt.ts';
 export { sortBy } from './sortBy.ts';
 export { sample } from './sample.ts';
 export { sampleSize } from './sampleSize.ts';
