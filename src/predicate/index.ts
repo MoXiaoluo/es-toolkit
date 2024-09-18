@@ -1,3 +1,4 @@
+export { isDate } from './isDate.ts';
 export { isEqual } from './isEqual.ts';
 export { isNil } from './isNil.ts';
 export { isNotNil } from './isNotNil.ts';
@@ -13,3 +14,4 @@ export { isBoolean } from './isBoolean.ts';
 export { isSymbol } from './isSymbol.ts';
 export { isString } from './isString.ts';
 export { isWeakMap } from './isWeakMap.ts';
+export { isWeakSet } from './isWeakSet.ts';
